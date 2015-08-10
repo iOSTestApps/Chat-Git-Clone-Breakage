@@ -1,0 +1,3 @@
+[submodule "Servers/REST"]
+	path = Servers/REST
+	url = git@github.com:acani/Chats-REST-Server-boo.git
