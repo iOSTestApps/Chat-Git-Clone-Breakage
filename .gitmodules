@@ -1,6 +1,57 @@
-[submodule "Servers/REST"]
-	path = Servers/REST
-	url = git@github.com:acani/Chats-REST-Server-boo.git
 [submodule "SwiftyJSON"]
 	path = SwiftyJSON
 	url = https://github.com/twobitlabs/SwiftyJSON.git
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/twobitlabs/Alamofire.git
+[submodule "TBLCategories"]
+	path = TBLCategories
+	url = https://github.com/twobitlabs/TBLCategories.git
+[submodule "AFNetworking"]
+	path = AFNetworking
+	url = https://github.com/twobitlabs/AFNetworking.git
+[submodule "Nimble"]
+	path = Nimble
+	url = https://github.com/twobitlabs/Nimble.git
+[submodule "XCGLogger"]
+	path = XCGLogger
+	url = https://github.com/twobitlabs/XCGLogger.git
+[submodule "mixpanel-iphone"]
+	path = mixpanel-iphone
+	url = https://github.com/twobitlabs/mixpanel-iphone.git
+[submodule "AnalyticsKit"]
+	path = AnalyticsKit
+	url = https://github.com/twobitlabs/AnalyticsKit.git
+[submodule "uservoice-ios-sdk"]
+	path = uservoice-ios-sdk
+	url = https://github.com/twobitlabs/uservoice-ios-sdk.git
+[submodule "PKHUD"]
+	path = PKHUD
+	url = https://github.com/twobitlabs/PKHUD
+[submodule "AngleGradientLayer"]
+	path = AngleGradientLayer
+	url = git://github.com/twobitlabs/AngleGradientLayer.git
+[submodule "DZNPhotoPickerController"]
+	path = DZNPhotoPickerController
+	url = https://github.com/twobitlabs/DZNPhotoPickerController.git
+[submodule "SDWebImage"]
+	path = SDWebImage
+	url = https://github.com/twobitlabs/SDWebImage.git
+[submodule "GROAuth2SessionManager"]
+	path = GROAuth2SessionManager
+	url = https://github.com/twobitlabs/GROAuth2SessionManager.git
+[submodule "DZNEmptyDataSet"]
+	path = DZNEmptyDataSet
+	url = https://github.com/twobitlabs/DZNEmptyDataSet.git
+[submodule "MBProgressHUD"]
+	path = MBProgressHUD
+	url = https://github.com/twobitlabs/MBProgressHUD.git
+[submodule "LeakInspector"]
+	path = LeakInspector
+	url = https://github.com/twobitlabs/LeakInspector.git
+[submodule "HMSegmentedControl"]
+	path = HMSegmentedControl
+	url = https://github.com/twobitlabs/HMSegmentedControl.git
+[submodule "youtube-ios-player-helper"]
+	path = youtube-ios-player-helper
+	url = https://github.com/twobitlabs/youtube-ios-player-helper.git
